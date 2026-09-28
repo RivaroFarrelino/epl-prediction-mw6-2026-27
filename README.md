@@ -1,6 +1,6 @@
 # Premier League Score Predictions
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RivaroFarrelino/epl-prediction-mw6-2026-27/blob/main/notebooks/epl_score_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1wZBByWi3y1ZuLoQKdLuGZqxEVR4dXRjb?usp=sharing)
 
 Predicting every scoreline in a Premier League matchweek using free data and a Dixon-Coles model.
 
