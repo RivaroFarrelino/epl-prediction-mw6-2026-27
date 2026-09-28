@@ -1,0 +1,17 @@
+data/
+output/
+epl_predictions/
+*.zip
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.venv/
+venv/
+.env
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
